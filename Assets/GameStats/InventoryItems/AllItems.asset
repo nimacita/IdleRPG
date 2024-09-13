@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51e86521b90f6434b85e416188bf8a48, type: 3}
+  m_Name: AllItems
+  m_EditorClassIdentifier: 
+  AllInvenoryItems:
+  - {fileID: 11400000, guid: 9242d367cb566a940ac422578b0c0bc6, type: 2}
+  - {fileID: 11400000, guid: d69fec41a23c0084e9986372ed077915, type: 2}
+  - {fileID: 11400000, guid: c24b424c47e4c6243bcd51b1bc92b402, type: 2}
+  - {fileID: 11400000, guid: fa62f20f286c496488b109cb89e804fa, type: 2}
+  - {fileID: 11400000, guid: a987f992c39cfb6418c05803d8f24987, type: 2}
+  - {fileID: 11400000, guid: 9d24663f9a1cf8c4dbeea3011b433990, type: 2}
+  - {fileID: 11400000, guid: 2f9018cbf7dbe4040973c9bd498c1bac, type: 2}
+  - {fileID: 11400000, guid: f16f83127c81e2a4c9ec3d885df404a2, type: 2}
+  - {fileID: 11400000, guid: 6c636ec11ad98c342bd5709b6e633461, type: 2}
+  - {fileID: 11400000, guid: 210ba67226667074696254d6e7b3ea83, type: 2}
+  - {fileID: 11400000, guid: 2977a5bc5dc048f46ab04a155905d172, type: 2}
+  - {fileID: 11400000, guid: 721fbe76f0aa798478b3b40cff89e247, type: 2}
+  - {fileID: 11400000, guid: e948682fd15262747a802fc97dfdd72e, type: 2}
+  - {fileID: 11400000, guid: acf4b555017da3a4c911d31581aa7675, type: 2}
+  - {fileID: 11400000, guid: f73a1b4bba8fa51469bba269d4a4fafd, type: 2}
+  - {fileID: 11400000, guid: 36dbcd79d20812143aa73f049d14d936, type: 2}
+  - {fileID: 11400000, guid: 88521a320c0e2844db01b4aaf712d731, type: 2}
+  - {fileID: 11400000, guid: 74010c3512bbd6c499ebcac43899f091, type: 2}
+  - {fileID: 11400000, guid: 9af79ca7bb64abd429e67036a2178338, type: 2}
+  - {fileID: 11400000, guid: 972457e4cf59c0a4582e757c0700839a, type: 2}
+  - {fileID: 11400000, guid: 7e0c4ef1cce441649ae1a631594bcaa2, type: 2}
+  - {fileID: 11400000, guid: 0bf730dbcb1f8db4294561f78cf1589a, type: 2}
+  - {fileID: 11400000, guid: ca9684b953b13104b86c31ac0e24b429, type: 2}
+  - {fileID: 11400000, guid: 042da2d4093e6db49bc5f7702fd8b667, type: 2}
+  - {fileID: 11400000, guid: d6b499f4248814f4ca5bf76df75518ac, type: 2}
+  - {fileID: 11400000, guid: 7bf133016da0b3c4d9cb03f3daedfb6a, type: 2}
+  - {fileID: 11400000, guid: 262f784414309de4097bce30cfe12b74, type: 2}
+  - {fileID: 11400000, guid: 71ad7f4c93b7ad540a53e1db6286f426, type: 2}
+  - {fileID: 11400000, guid: 1940d7bfa9098cf449772e5aec4a986b, type: 2}
+  - {fileID: 11400000, guid: 2e317274419dfc145bcc0ad343390a16, type: 2}
+  - {fileID: 11400000, guid: 6159dcabec29daa47b609f4af9fcc204, type: 2}
+  - {fileID: 11400000, guid: 62cbc7056e1f9ae4caee28dd6f3c747c, type: 2}
+  - {fileID: 11400000, guid: 58d39ea6b116b09438051fd5fe45423c, type: 2}
+  - {fileID: 11400000, guid: e822eabe9dd2f784b858393f9fbad033, type: 2}
+  AllArmorSets:
+  - SetName: "\u0411\u0430\u043D\u0434\u0438\u0442\u0441\u043A\u0438\u0439 \u0421\u0435\u0442"
+    Sword: {fileID: 11400000, guid: a987f992c39cfb6418c05803d8f24987, type: 2}
+    Bow: {fileID: 11400000, guid: 9d24663f9a1cf8c4dbeea3011b433990, type: 2}
+    Helmet: {fileID: 11400000, guid: 2f9018cbf7dbe4040973c9bd498c1bac, type: 2}
+    Torso: {fileID: 11400000, guid: 6c636ec11ad98c342bd5709b6e633461, type: 2}
+    Gloves: {fileID: 11400000, guid: f16f83127c81e2a4c9ec3d885df404a2, type: 2}
+    Boots: {fileID: 11400000, guid: 210ba67226667074696254d6e7b3ea83, type: 2}
+  - SetName: "\u0422\u044F\u0436\u0435\u043B\u044B\u0439 \u0416\u0435\u043B\u0435\u0437\u043D\u044B\u0439
+      \u0421\u0435\u0442"
+    Sword: {fileID: 11400000, guid: 2977a5bc5dc048f46ab04a155905d172, type: 2}
+    Bow: {fileID: 11400000, guid: 721fbe76f0aa798478b3b40cff89e247, type: 2}
+    Helmet: {fileID: 11400000, guid: e948682fd15262747a802fc97dfdd72e, type: 2}
+    Torso: {fileID: 11400000, guid: f73a1b4bba8fa51469bba269d4a4fafd, type: 2}
+    Gloves: {fileID: 11400000, guid: acf4b555017da3a4c911d31581aa7675, type: 2}
+    Boots: {fileID: 11400000, guid: 36dbcd79d20812143aa73f049d14d936, type: 2}
+  - SetName: "\u0421\u0435\u0442 \u0422\u0435\u043C\u043D\u043E\u0433\u043E \u0420\u044B\u0446\u0430\u0440\u044F"
+    Sword: {fileID: 11400000, guid: d6b499f4248814f4ca5bf76df75518ac, type: 2}
+    Bow: {fileID: 11400000, guid: 7bf133016da0b3c4d9cb03f3daedfb6a, type: 2}
+    Helmet: {fileID: 11400000, guid: 262f784414309de4097bce30cfe12b74, type: 2}
+    Torso: {fileID: 11400000, guid: 1940d7bfa9098cf449772e5aec4a986b, type: 2}
+    Gloves: {fileID: 11400000, guid: 71ad7f4c93b7ad540a53e1db6286f426, type: 2}
+    Boots: {fileID: 11400000, guid: 2e317274419dfc145bcc0ad343390a16, type: 2}
+  - SetName: "\u041B\u0430\u0442\u043D\u044B\u0439 \u0421\u0435\u0442"
+    Sword: {fileID: 11400000, guid: e184f4e9c59587748be186e2fa49194e, type: 2}
+    Bow: {fileID: 11400000, guid: 638a015148982ab4cb9a5f61e62a7aa5, type: 2}
+    Helmet: {fileID: 11400000, guid: 2de602e3cbe4d514895f1c2bf2dbda41, type: 2}
+    Torso: {fileID: 11400000, guid: 55b0415f238cd03469c6be1942b1e869, type: 2}
+    Gloves: {fileID: 11400000, guid: 56afaae845c23764fb265b301f8f412c, type: 2}
+    Boots: {fileID: 11400000, guid: 95f7174727ae28743943142f0d432a7b, type: 2}
+  allItems:
+  - {fileID: 11400000, guid: 9242d367cb566a940ac422578b0c0bc6, type: 2}
+  - {fileID: 11400000, guid: d69fec41a23c0084e9986372ed077915, type: 2}
+  - {fileID: 11400000, guid: 9af79ca7bb64abd429e67036a2178338, type: 2}
+  - {fileID: 11400000, guid: 972457e4cf59c0a4582e757c0700839a, type: 2}
+  - {fileID: 11400000, guid: 7e0c4ef1cce441649ae1a631594bcaa2, type: 2}
+  - {fileID: 11400000, guid: 0bf730dbcb1f8db4294561f78cf1589a, type: 2}
+  - {fileID: 11400000, guid: ca9684b953b13104b86c31ac0e24b429, type: 2}
+  - {fileID: 11400000, guid: 042da2d4093e6db49bc5f7702fd8b667, type: 2}
+  - {fileID: 11400000, guid: 6159dcabec29daa47b609f4af9fcc204, type: 2}
+  - {fileID: 11400000, guid: 62cbc7056e1f9ae4caee28dd6f3c747c, type: 2}
+  - {fileID: 11400000, guid: 58d39ea6b116b09438051fd5fe45423c, type: 2}
+  - {fileID: 11400000, guid: e822eabe9dd2f784b858393f9fbad033, type: 2}
+  allPoition:
+  - {fileID: 11400000, guid: 88521a320c0e2844db01b4aaf712d731, type: 2}
+  - {fileID: 11400000, guid: 74010c3512bbd6c499ebcac43899f091, type: 2}
+  defaultSword: {fileID: 11400000, guid: c24b424c47e4c6243bcd51b1bc92b402, type: 2}
+  defaultBow: {fileID: 11400000, guid: fa62f20f286c496488b109cb89e804fa, type: 2}

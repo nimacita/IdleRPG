@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc98f13497213644d8993a72269c1aec, type: 3}
+  m_Name: PlayerStats
+  m_EditorClassIdentifier: 
+  baseHealth: 10
+  baseArmor: 5
+  baseSwordAttackDamage: 1
+  baseBowAttackDamage: 1
+  readyAtckCoolDown: 2.5
+  minReadyToAtckCoolDown: 0.5
+  swordDamageToRangeKoef: 0
+  minSwordAttackDurability: 0.5
+  baseSwordCritKoef: 0.5
+  bowDamageToMeleeKoef: 0.25
+  minBowAttackDurability: 0.5
+  baseBowCritKoef: 0.5
+  baseLuck: 0
+  changeDurability: 2
+  takeDamageSounds:
+  - {fileID: 8300000, guid: 549c1da7b286b2b429f25738fb538cb1, type: 3}
+  - {fileID: 8300000, guid: fe430838fd90b664d9fc439d830172bb, type: 3}
+  - {fileID: 8300000, guid: a825020d3b7f66a4ea336cb803e71a76, type: 3}
+  - {fileID: 8300000, guid: 318212f2c59423c4d806b41992bff748, type: 3}
+  deathSound: {fileID: 8300000, guid: 2842403f32c26314b90098b808ad13d5, type: 3}
+  changeWeaponSound: {fileID: 8300000, guid: 407abe4b3d38a52438e1950417188dd1, type: 3}

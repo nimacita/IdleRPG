@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec8634814dd85f942a1b876efaab03d6, type: 3}
+  m_Name: ScarabTooth
+  m_EditorClassIdentifier: 
+  itemName: "\u041A\u043B\u044B\u043A \u0421\u043A\u0430\u0440\u0430\u0431\u0435\u044F"
+  itemIcon: {fileID: 21300000, guid: dc6434cfdac894238b1058cfd3e15c76, type: 3}
+  itemType: 0
+  itemPrice: 10
+  healthAmount: 1
+  armorArmor: 0
+  armorHealth: 0
+  armorLuck: 0
+  armorAddReadyToAtck: 0
+  helmetOnCharacterSprite: {fileID: 0}
+  glovesFinger: {fileID: 0}
+  glovesForearmR: {fileID: 0}
+  glovesForearmL: {fileID: 0}
+  glovesHandL: {fileID: 0}
+  glovesHandR: {fileID: 0}
+  glovesSleever: {fileID: 0}
+  torsoArmL: {fileID: 0}
+  torsoArmR: {fileID: 0}
+  torsoPelvis: {fileID: 0}
+  torsoTorso: {fileID: 0}
+  bootsLeg: {fileID: 0}
+  bootsShin: {fileID: 0}
+  weaponDamage: 0
+  weaponLuck: 0
+  swordAttackDurability: 1
+  swordInHandSprite: {fileID: 0}
+  bowAttackDurability: 1
+  bowArrowInHandSprite: {fileID: 0}
+  bowLimbInHandSprite: {fileID: 0}
+  bowRiserInHandSprite: {fileID: 0}

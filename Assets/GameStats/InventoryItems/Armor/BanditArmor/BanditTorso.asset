@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec8634814dd85f942a1b876efaab03d6, type: 3}
+  m_Name: BanditTorso
+  m_EditorClassIdentifier: 
+  itemName: "\u0411\u0430\u043D\u0434\u0438\u0442\u0441\u043A\u0438\u0439 \u043D\u0430\u0433\u0440\u0443\u0434\u043D\u0438\u043A"
+  itemIcon: {fileID: 21300000, guid: 29cab9d10e9b4ae6a0c50476082d7c19, type: 3}
+  itemType: 3
+  itemPrice: 80
+  poitionHealthAmount: 1
+  armorArmor: 8
+  armorHealth: 1
+  armorLuck: 15
+  armorAddReadyToAtck: -0.5
+  helmetOnCharacterSprite: {fileID: 0}
+  glovesFinger: {fileID: 0}
+  glovesForearmR: {fileID: 0}
+  glovesForearmL: {fileID: 0}
+  glovesHandL: {fileID: 0}
+  glovesHandR: {fileID: 0}
+  glovesSleever: {fileID: 0}
+  torsoArmL: {fileID: 21300004, guid: 880cea81678245ad926c8a2e990a0483, type: 3}
+  torsoArmR: {fileID: 21300002, guid: 880cea81678245ad926c8a2e990a0483, type: 3}
+  torsoPelvis: {fileID: 21300006, guid: 880cea81678245ad926c8a2e990a0483, type: 3}
+  torsoTorso: {fileID: 21300000, guid: 880cea81678245ad926c8a2e990a0483, type: 3}
+  armorBlowSound: {fileID: 8300000, guid: 5936d0b582d2c61438d6b9f877287dc9, type: 3}
+  bootsLeg: {fileID: 0}
+  bootsShin: {fileID: 0}
+  weaponDamage: 0
+  weaponLuck: 0
+  swordAttackDurability: 1
+  swordInHandSprite: {fileID: 0}
+  swordSwingSound: {fileID: 0}
+  swordHitSound: {fileID: 0}
+  bowAttackDurability: 1
+  bowArrowInHandSprite: {fileID: 0}
+  bowLimbInHandSprite: {fileID: 0}
+  bowRiserInHandSprite: {fileID: 0}
+  bowShotSound: {fileID: 0}
+  bowDrawSound: {fileID: 0}

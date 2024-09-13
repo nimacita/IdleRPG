@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a26f2c39b2768db43b1fd82dddee576d, type: 3}
+  m_Name: RatStats
+  m_EditorClassIdentifier: 
+  baseHealth: 4
+  baseArmor: 5
+  baseAttackDamage: 1
+  attackDurability: 3
+  readyAtckCoolDown: 3
+  rangeAttack: 0
+  experienceAmount: 1
+  spawnChance: 70
+  anyLootCahance: 50
+  allLoots:
+  - lootObj: {fileID: 11400000, guid: 9242d367cb566a940ac422578b0c0bc6, type: 2}
+    lootChance: 80
+  - lootObj: {fileID: 11400000, guid: 2f9018cbf7dbe4040973c9bd498c1bac, type: 2}
+    lootChance: 5
+  - lootObj: {fileID: 11400000, guid: f16f83127c81e2a4c9ec3d885df404a2, type: 2}
+    lootChance: 5
+  - lootObj: {fileID: 11400000, guid: 88521a320c0e2844db01b4aaf712d731, type: 2}
+    lootChance: 5
+  enemieHitSound: {fileID: 8300000, guid: f6227195c69d5a141a9dc8bb4dc3a18e, type: 3}

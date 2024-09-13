@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a26f2c39b2768db43b1fd82dddee576d, type: 3}
+  m_Name: OgreStats
+  m_EditorClassIdentifier: 
+  baseHealth: 12
+  baseArmor: 20
+  baseAttackDamage: 5
+  attackDurability: 4
+  readyAtckCoolDown: 6
+  rangeAttack: 0
+  experienceAmount: 4
+  spawnChance: 50
+  anyLootCahance: 70
+  allLoots:
+  - lootObj: {fileID: 11400000, guid: 972457e4cf59c0a4582e757c0700839a, type: 2}
+    lootChance: 80
+  - lootObj: {fileID: 11400000, guid: 7e0c4ef1cce441649ae1a631594bcaa2, type: 2}
+    lootChance: 5
+  - lootObj: {fileID: 11400000, guid: 74010c3512bbd6c499ebcac43899f091, type: 2}
+    lootChance: 5
+  - lootObj: {fileID: 11400000, guid: e948682fd15262747a802fc97dfdd72e, type: 2}
+    lootChance: 5
+  - lootObj: {fileID: 11400000, guid: 36dbcd79d20812143aa73f049d14d936, type: 2}
+    lootChance: 5
+  enemieHitSound: {fileID: 8300000, guid: 2d3836f9b5b642f43a5939dc5746ee05, type: 3}

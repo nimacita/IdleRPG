@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec8634814dd85f942a1b876efaab03d6, type: 3}
+  m_Name: HeavyIronGloves
+  m_EditorClassIdentifier: 
+  itemName: "\u0422\u044F\u0436\u0435\u043B\u044B\u0435 \u0416\u0435\u043B\u0435\u0437\u043D\u044B\u0435
+    \u041F\u0435\u0440\u0447\u0430\u0442\u043A\u0438"
+  itemIcon: {fileID: 21300000, guid: aa830f82546d5ca419c4b427eda63322, type: 3}
+  itemType: 4
+  itemPrice: 65
+  healthAmount: 1
+  armorArmor: 5
+  armorHealth: 1
+  armorLuck: 5
+  armorAddReadyToAtck: 0.25
+  helmetOnCharacterSprite: {fileID: 0}
+  glovesFinger: {fileID: 21300022, guid: 5525657893e04c3d9e458604b52020a8, type: 3}
+  glovesForearmR: {fileID: 21300008, guid: 5525657893e04c3d9e458604b52020a8, type: 3}
+  glovesForearmL: {fileID: 21300010, guid: 5525657893e04c3d9e458604b52020a8, type: 3}
+  glovesHandL: {fileID: 21300016, guid: 5525657893e04c3d9e458604b52020a8, type: 3}
+  glovesHandR: {fileID: 21300018, guid: 5525657893e04c3d9e458604b52020a8, type: 3}
+  glovesSleever: {fileID: 21300020, guid: 5525657893e04c3d9e458604b52020a8, type: 3}
+  torsoArmL: {fileID: 0}
+  torsoArmR: {fileID: 0}
+  torsoPelvis: {fileID: 0}
+  torsoTorso: {fileID: 0}
+  bootsLeg: {fileID: 0}
+  bootsShin: {fileID: 0}
+  weaponDamage: 0
+  weaponLuck: 0
+  swordAttackDurability: 1
+  swordInHandSprite: {fileID: 0}
+  bowAttackDurability: 1
+  bowArrowInHandSprite: {fileID: 0}
+  bowLimbInHandSprite: {fileID: 0}
+  bowRiserInHandSprite: {fileID: 0}

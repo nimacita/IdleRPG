@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a26f2c39b2768db43b1fd82dddee576d, type: 3}
+  m_Name: WaspEnemie
+  m_EditorClassIdentifier: 
+  baseHealth: 2
+  baseArmor: 0
+  baseAttackDamage: 1
+  attackDurability: 1
+  readyAtckCoolDown: 1.2
+  rangeAttack: 1
+  experienceAmount: 2
+  spawnChance: 40
+  anyLootCahance: 80
+  allLoots:
+  - lootObj: {fileID: 11400000, guid: 9af79ca7bb64abd429e67036a2178338, type: 2}
+    lootChance: 80
+  - lootObj: {fileID: 11400000, guid: 210ba67226667074696254d6e7b3ea83, type: 2}
+    lootChance: 5
+  - lootObj: {fileID: 11400000, guid: 9d24663f9a1cf8c4dbeea3011b433990, type: 2}
+    lootChance: 5
+  - lootObj: {fileID: 11400000, guid: 88521a320c0e2844db01b4aaf712d731, type: 2}
+    lootChance: 5
+  enemieHitSound: {fileID: 8300000, guid: 1b3ed77b5b2996b45be48c441f9e7991, type: 3}

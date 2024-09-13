@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec8634814dd85f942a1b876efaab03d6, type: 3}
+  m_Name: DarkKnightTorso
+  m_EditorClassIdentifier: 
+  itemName: "\u0411\u0440\u043E\u043D\u044F \u0422\u0435\u043C\u043D\u043E\u0433\u043E
+    \u0420\u044B\u0446\u0430\u0440\u044F"
+  itemIcon: {fileID: 21300000, guid: 59bc4a26f72541e49c317554c122ce30, type: 3}
+  itemType: 3
+  itemPrice: 200
+  poitionHealthAmount: 1
+  armorArmor: 10
+  armorHealth: 2
+  armorLuck: 15
+  armorAddReadyToAtck: -0.25
+  helmetOnCharacterSprite: {fileID: 0}
+  glovesFinger: {fileID: 0}
+  glovesForearmR: {fileID: 0}
+  glovesForearmL: {fileID: 0}
+  glovesHandL: {fileID: 0}
+  glovesHandR: {fileID: 0}
+  glovesSleever: {fileID: 0}
+  torsoArmL: {fileID: 21300024, guid: 78b90fe68bd447ed86c5a49db914e176, type: 3}
+  torsoArmR: {fileID: 21300022, guid: 78b90fe68bd447ed86c5a49db914e176, type: 3}
+  torsoPelvis: {fileID: 21300006, guid: 78b90fe68bd447ed86c5a49db914e176, type: 3}
+  torsoTorso: {fileID: 21300000, guid: 78b90fe68bd447ed86c5a49db914e176, type: 3}
+  armorBlowSound: {fileID: 8300000, guid: 5936d0b582d2c61438d6b9f877287dc9, type: 3}
+  bootsLeg: {fileID: 0}
+  bootsShin: {fileID: 0}
+  weaponDamage: 0
+  weaponLuck: 0
+  swordAttackDurability: 1
+  swordInHandSprite: {fileID: 0}
+  swordSwingSound: {fileID: 0}
+  swordHitSound: {fileID: 0}
+  bowAttackDurability: 1
+  bowArrowInHandSprite: {fileID: 0}
+  bowLimbInHandSprite: {fileID: 0}
+  bowRiserInHandSprite: {fileID: 0}
+  bowShotSound: {fileID: 0}
+  bowDrawSound: {fileID: 0}

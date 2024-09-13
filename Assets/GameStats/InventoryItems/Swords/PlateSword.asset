@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec8634814dd85f942a1b876efaab03d6, type: 3}
+  m_Name: PlateSword
+  m_EditorClassIdentifier: 
+  itemName: "\u041B\u0430\u0442\u043D\u044B\u0439 \u041C\u0435\u0447"
+  itemIcon: {fileID: 21300000, guid: 4fb30ebd82874b0abc12f9c57dab0aa5, type: 3}
+  itemType: 6
+  itemPrice: 220
+  poitionHealthAmount: 1
+  armorArmor: 0
+  armorHealth: 0
+  armorLuck: 0
+  armorAddReadyToAtck: 0
+  helmetOnCharacterSprite: {fileID: 0}
+  glovesFinger: {fileID: 0}
+  glovesForearmR: {fileID: 0}
+  glovesForearmL: {fileID: 0}
+  glovesHandL: {fileID: 0}
+  glovesHandR: {fileID: 0}
+  glovesSleever: {fileID: 0}
+  torsoArmL: {fileID: 0}
+  torsoArmR: {fileID: 0}
+  torsoPelvis: {fileID: 0}
+  torsoTorso: {fileID: 0}
+  bootsLeg: {fileID: 0}
+  bootsShin: {fileID: 0}
+  weaponDamage: 7
+  weaponLuck: 5
+  swordAttackDurability: 3
+  swordInHandSprite: {fileID: 21300000, guid: bf7fb1e84a2e489996409b233e50e64f, type: 3}
+  swordSwingSound: {fileID: 8300000, guid: 67154993b76a3fd4caf176721becabfc, type: 3}
+  swordHitSound: {fileID: 8300000, guid: 04edb532eb04514428df0379754efddf, type: 3}
+  bowAttackDurability: 1
+  bowArrowInHandSprite: {fileID: 0}
+  bowLimbInHandSprite: {fileID: 0}
+  bowRiserInHandSprite: {fileID: 0}

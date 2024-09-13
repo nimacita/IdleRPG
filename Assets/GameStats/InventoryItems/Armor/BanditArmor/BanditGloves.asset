@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec8634814dd85f942a1b876efaab03d6, type: 3}
+  m_Name: BanditGloves
+  m_EditorClassIdentifier: 
+  itemName: "\u0411\u0430\u043D\u0434\u0438\u0442\u0441\u043A\u0438\u0435 \u041F\u0435\u0440\u0447\u0430\u0442\u043A\u0438"
+  itemIcon: {fileID: 21300000, guid: 113c9823ded3f54438b6229f70fc271d, type: 3}
+  itemType: 4
+  itemPrice: 40
+  poitionHealthAmount: 1
+  armorArmor: 3
+  armorHealth: 0
+  armorLuck: 5
+  armorAddReadyToAtck: -0.5
+  helmetOnCharacterSprite: {fileID: 0}
+  glovesFinger: {fileID: 21300022, guid: 880cea81678245ad926c8a2e990a0483, type: 3}
+  glovesForearmR: {fileID: 21300008, guid: 880cea81678245ad926c8a2e990a0483, type: 3}
+  glovesForearmL: {fileID: 21300010, guid: 880cea81678245ad926c8a2e990a0483, type: 3}
+  glovesHandL: {fileID: 21300016, guid: 880cea81678245ad926c8a2e990a0483, type: 3}
+  glovesHandR: {fileID: 21300018, guid: 880cea81678245ad926c8a2e990a0483, type: 3}
+  glovesSleever: {fileID: 21300020, guid: 880cea81678245ad926c8a2e990a0483, type: 3}
+  torsoArmL: {fileID: 0}
+  torsoArmR: {fileID: 0}
+  torsoPelvis: {fileID: 0}
+  torsoTorso: {fileID: 0}
+  bootsLeg: {fileID: 0}
+  bootsShin: {fileID: 0}
+  weaponDamage: 0
+  weaponLuck: 0
+  swordAttackDurability: 1
+  swordInHandSprite: {fileID: 0}
+  bowAttackDurability: 1
+  bowArrowInHandSprite: {fileID: 0}
+  bowLimbInHandSprite: {fileID: 0}
+  bowRiserInHandSprite: {fileID: 0}

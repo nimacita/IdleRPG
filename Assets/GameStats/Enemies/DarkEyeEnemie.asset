@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a26f2c39b2768db43b1fd82dddee576d, type: 3}
+  m_Name: DarkEyeEnemie
+  m_EditorClassIdentifier: 
+  baseHealth: 8
+  baseArmor: 5
+  baseAttackDamage: 2
+  attackDurability: 2
+  readyAtckCoolDown: 2
+  rangeAttack: 1
+  experienceAmount: 5
+  spawnChance: 50
+  anyLootCahance: 60
+  allLoots:
+  - lootObj: {fileID: 11400000, guid: 042da2d4093e6db49bc5f7702fd8b667, type: 2}
+    lootChance: 80
+  - lootObj: {fileID: 11400000, guid: 7bf133016da0b3c4d9cb03f3daedfb6a, type: 2}
+    lootChance: 5
+  - lootObj: {fileID: 11400000, guid: 71ad7f4c93b7ad540a53e1db6286f426, type: 2}
+    lootChance: 5
+  - lootObj: {fileID: 11400000, guid: 88521a320c0e2844db01b4aaf712d731, type: 2}
+    lootChance: 10
+  enemieHitSound: {fileID: 8300000, guid: 5a594f2d887ac5b4880a087e3eb1be0a, type: 3}

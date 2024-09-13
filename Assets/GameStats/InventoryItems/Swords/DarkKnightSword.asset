@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec8634814dd85f942a1b876efaab03d6, type: 3}
+  m_Name: DarkKnightSword
+  m_EditorClassIdentifier: 
+  itemName: "\u041C\u0435\u0447 \u0422\u0435\u043C\u043D\u043E\u0433\u043E \u0420\u044B\u0446\u0430\u0440\u044F"
+  itemIcon: {fileID: 21300000, guid: 7c108fdcdd404282b79f7c4670ecf545, type: 3}
+  itemType: 6
+  itemPrice: 215
+  poitionHealthAmount: 1
+  armorArmor: 0
+  armorHealth: 0
+  armorLuck: 0
+  armorAddReadyToAtck: 0
+  helmetOnCharacterSprite: {fileID: 0}
+  glovesFinger: {fileID: 0}
+  glovesForearmR: {fileID: 0}
+  glovesForearmL: {fileID: 0}
+  glovesHandL: {fileID: 0}
+  glovesHandR: {fileID: 0}
+  glovesSleever: {fileID: 0}
+  torsoArmL: {fileID: 0}
+  torsoArmR: {fileID: 0}
+  torsoPelvis: {fileID: 0}
+  torsoTorso: {fileID: 0}
+  bootsLeg: {fileID: 0}
+  bootsShin: {fileID: 0}
+  weaponDamage: 4
+  weaponLuck: 10
+  swordAttackDurability: 1.25
+  swordInHandSprite: {fileID: 21300000, guid: dd74bf51dc4a4cd3a43a32782f0749b3, type: 3}
+  swordSwingSound: {fileID: 8300000, guid: 170109cfcd4d6a8468c69d3373d71e03, type: 3}
+  swordHitSound: {fileID: 8300000, guid: 968324aedc6e9da49a2b49fb8b49f5f4, type: 3}
+  bowAttackDurability: 1
+  bowArrowInHandSprite: {fileID: 0}
+  bowLimbInHandSprite: {fileID: 0}
+  bowRiserInHandSprite: {fileID: 0}

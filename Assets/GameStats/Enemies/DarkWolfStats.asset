@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a26f2c39b2768db43b1fd82dddee576d, type: 3}
+  m_Name: DarkWolfStats
+  m_EditorClassIdentifier: 
+  baseHealth: 15
+  baseArmor: 35
+  baseAttackDamage: 7
+  attackDurability: 2
+  readyAtckCoolDown: 3
+  rangeAttack: 0
+  experienceAmount: 7
+  spawnChance: 40
+  anyLootCahance: 85
+  allLoots:
+  - lootObj: {fileID: 11400000, guid: 0bf730dbcb1f8db4294561f78cf1589a, type: 2}
+    lootChance: 80
+  - lootObj: {fileID: 11400000, guid: 74010c3512bbd6c499ebcac43899f091, type: 2}
+    lootChance: 10
+  - lootObj: {fileID: 11400000, guid: d6b499f4248814f4ca5bf76df75518ac, type: 2}
+    lootChance: 5
+  - lootObj: {fileID: 11400000, guid: 1940d7bfa9098cf449772e5aec4a986b, type: 2}
+    lootChance: 5
+  enemieHitSound: {fileID: 8300000, guid: 7f9fbcd88321fb546bbb32f114ec37ba, type: 3}

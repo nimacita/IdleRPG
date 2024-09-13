@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec8634814dd85f942a1b876efaab03d6, type: 3}
+  m_Name: DefaultBow
+  m_EditorClassIdentifier: 
+  itemName: "\u0421\u0442\u0430\u0440\u0442\u043E\u0432\u044B\u0439 \u043B\u0443\u043A"
+  itemIcon: {fileID: 21300000, guid: 6678809b6d9249458bfaa9261a6b2199, type: 3}
+  itemType: 7
+  itemPrice: 25
+  poitionHealthAmount: 1
+  armorArmor: 0
+  armorHealth: 0
+  armorLuck: 0
+  armorAddReadyToAtck: 0
+  helmetOnCharacterSprite: {fileID: 0}
+  glovesFinger: {fileID: 0}
+  glovesForearmR: {fileID: 0}
+  glovesForearmL: {fileID: 0}
+  glovesHandL: {fileID: 0}
+  glovesHandR: {fileID: 0}
+  glovesSleever: {fileID: 0}
+  torsoArmL: {fileID: 0}
+  torsoArmR: {fileID: 0}
+  torsoPelvis: {fileID: 0}
+  torsoTorso: {fileID: 0}
+  bootsLeg: {fileID: 0}
+  bootsShin: {fileID: 0}
+  weaponDamage: 0
+  weaponLuck: 0
+  swordAttackDurability: 1
+  swordInHandSprite: {fileID: 0}
+  swordSwingSound: {fileID: 0}
+  swordHitSound: {fileID: 0}
+  bowAttackDurability: 1
+  bowArrowInHandSprite: {fileID: 21300004, guid: 48d36d3703b74b52af885dcdafa141b6, type: 3}
+  bowLimbInHandSprite: {fileID: 21300002, guid: 48d36d3703b74b52af885dcdafa141b6, type: 3}
+  bowRiserInHandSprite: {fileID: 21300000, guid: 48d36d3703b74b52af885dcdafa141b6, type: 3}
+  bowShotSound: {fileID: 8300000, guid: 5f5a2171c39565e4c9503e83d8a2820f, type: 3}
+  bowDrawSound: {fileID: 8300000, guid: d18cfdf84bd6f6743abfeb623ed1ac7c, type: 3}
